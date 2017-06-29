@@ -1,14 +1,21 @@
 # FinalProject
 <hr/>
-  <h3>1、类图/时序图</h3>
+  <h3>1、类图/时序图/数据库结构图/项目结构图</h3>
   <img src="doc/classDiagram.png" />
   <img src="doc/seq1.JPG" />
   <img src="doc/seq2.JPG" />
-  <hr/>
+  <img src="doc/project.JPG" />
+  <img src="doc/sql.JPG" />
   
-  <h3>2、数据库结构图/项目结构图</h3>
-   <img src="doc/project.JPG" />
-   <img src="doc/sql.JPG" />
+  <h3>2、测试</h3>
+    <h5>2.2、测试代码</h5>
+    <img src="doc/test1.JPG" />
+    <img src="doc/test2.JPG" />
+   <h5>2.2、测试界面截图</h5>
+    <img src="doc/testCode.JPG" />
+    <img src="doc/testCode1.JPG" />
+    <img src="doc/testCode2.JPG" />
+    <img src="doc/testCode3.JPG" />
   <hr/>
   
   <h3>3、项目介绍</h3>
@@ -24,8 +31,9 @@
          <img src="doc/spec1.JPG" />
          <img src="doc/spec2.JPG" />
          <img src="doc/spec3.JPG" />
-         <h6>3.1.3.3ArrayList<ISpecification>规格在section类中的实现和应用</h6>   
+         <h6>3.1.3.3ArrayList<ISpecification>规格的实现和应用</h6>   
          <img src="doc/rules.JPG" />
+         <img src="doc/attend.JPG" />
       <h5>3.1.4、工厂方法</h5> 
           <img src="doc/dao.JPG" />  
     <h4>3.3、waitList</h4>
@@ -62,6 +70,7 @@
           <img src="doc/wait2.JPG" />
       <h5>3.2.6、成绩查看</h5>
           <img src="doc/grade.JPG" />
-  <h3>4、说明</h3>
+ 
+  <h3>5、说明</h3>
     大多方法都是写在CourseImpl中
 
