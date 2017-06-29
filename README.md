@@ -55,10 +55,13 @@
          <h5>3.2.4.3、选课失败</h5>
           <img src="doc/xk2.JPG" />
           <img src="doc/xk4.JPG" />
+         <h5>3.2.4.4、选修通过时</h5>
+          <img src="doc/xk5.JPG" />
+          <img src="doc/xk6.JPG" />
       <h5>3.2.5、选课查看/退选</h5>
           <img src="doc/wait2.JPG" />
       <h5>3.2.6、成绩查看</h5>
           <img src="doc/grade.JPG" />
   <h3>4、说明</h3>
     大多方法都是写在CourseImpl中
-  方法 
+
