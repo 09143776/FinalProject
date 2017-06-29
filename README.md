@@ -9,13 +9,12 @@
   
   <h3>2、测试</h3>
     <h5>2.2、测试代码</h5>
-    <img src="doc/test1.JPG" />
-    <img src="doc/test2.JPG" />
-   <h5>2.2、测试界面截图</h5>
-    <img src="doc/testCode.JPG" />
-    <img src="doc/testCode1.JPG" />
+    <img src="doc/testCode.JPG" />
     <img src="doc/testCode2.JPG" />
     <img src="doc/testCode3.JPG" />
+   <h5>2.2、测试界面截图</h5>
+    <img src="doc/test1.JPG" />
+    <img src="doc/test2.JPG" />
   <hr/>
   
   <h3>3、项目介绍</h3>
